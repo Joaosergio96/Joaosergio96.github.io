@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    
+}
+
+aside{
+    background-color: grey;
+    flex: 2;
+    height: 500px;
+}
+
+main{
+    background-color: lightgrey;
+    flex: 8;
+    text-align: center;
+    
+}
